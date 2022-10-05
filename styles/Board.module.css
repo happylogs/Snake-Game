@@ -12,8 +12,7 @@
 }
 
 .square {
-    border: 1px solid white;
-    display: grid;
+    border: 1px solid black;
     place-items: center;
     font-size: 40px;
 }
